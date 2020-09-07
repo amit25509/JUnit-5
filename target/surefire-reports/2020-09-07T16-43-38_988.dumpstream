@@ -1,0 +1,4 @@
+# Created at 2020-09-07T16:43:47.792
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Software\Development\intelij\JunitTest\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
